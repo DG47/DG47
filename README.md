@@ -1,9 +1,9 @@
 # Hi there, I'm Dhruv! :man_technologist:	
 
 ### :man_student: About Me:
-<img src="https://github.com/akarshijain/akarshijain/blob/main/bitmoji.png" align="right" alt="Bitmoji Image" width="130" height="200">
+<img src="hey.png" align="right" alt="Bitmoji Image" width="200" height="200">
 
-- 🎓 Master's Student in Computer Science at SUNY Buffalo, specializing in Systems Programming and AI.
+- 🎓 MS in Information Science from University of Pittsburgh, specializing in Computer Vision and AI.
 - 🚀 Highly skilled in Software Engineering, Data Engineering, and AI, with a strong passion for Machine Learning.
 - 💼 Rich internship experience at Nix Inc., Good Creator Co., Gupshup, and Healing Touch NGO.
 - 🌱 My academic journey includes extensive coursework in Data Structures, Algorithms, Computer Architecture, Operating Systems, Database Management, Software Engineering, and more.
