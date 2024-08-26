@@ -4,10 +4,10 @@
 <img src="hey.png" align="right" alt="Bitmoji Image" width="200" height="200">
 
 - 🎓 MS in Information Science from University of Pittsburgh, specializing in Computer Vision and AI.
-- 🚀 Highly skilled in Software Engineering, Data Engineering, and AI, with a strong passion for Machine Learning.
-- 💼 Rich internship experience at Nix Inc., Good Creator Co., Gupshup, and Healing Touch NGO.
-- 🌱 My academic journey includes extensive coursework in Data Structures, Algorithms, Computer Architecture, Operating Systems, Database Management, Software Engineering, and more.
-- 📫 Reach out: [ajakarshi@gmail.com](mailto:ajakarshi@gmail.com) | [LinkedIn](https://www.linkedin.com/in/akarshijain/)
+- 🚀 Highly skilled in Computer Vision, Data Engineering, and AI, with a strong passion for Machine Learning.
+- 💼 Over 4 years of experience as a Data Engineer and Computer Vision Engineer at Meditab Software Inc, Dosepacker and HERL
+- 🌱 My academic journey includes extensive coursework in Data Structures & Algorithms, AI, Database Management, Data Visualization, Computer Vision, and more.
+- 📫 Reach out:  :e-mail: [todhruvg@gmail.com](mailto:todhruvg@gmail.com) | [LinkedIn](https://www.linkedin.com/in/akarshijain/)
 - 🌈 Pronouns: She/Her
 
 ### 📚 My College Journey:
