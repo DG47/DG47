@@ -39,7 +39,7 @@
 
 ### 🎨 Extra-Curriculars & Hobbies:
 - :clapper:  [Watch my movie here](https://youtu.be/S2IAEMNz15M?si=9aKyHHl7XCpn-eSz)
-- <img align='left' src="https://github.com/Football-Analytics-UCU/Real-Madrid/blob/6b9e314400b4f2fd2bf615c88abea9c43d7462d7/photos/Real_Madrid_logo.png" alt="RMA" width='25' height='25'/>Join me supporting Real Madrid on UCL days
+- <img align='left' src="https://github.com/Football-Analytics-UCU/Real-Madrid/blob/6b9e314400b4f2fd2bf615c88abea9c43d7462d7/photos/Real_Madrid_logo.png" alt="RMA" width='15' height='15'/>Join me supporting Real Madrid on UCL days
 - :racing_car:  Love driving, travelling, reading and researching
 
 ### 📈 GitHub Insights:
