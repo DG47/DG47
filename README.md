@@ -43,7 +43,7 @@
 - :racing_car:  Love driving, travelling, reading and researching
 
 ### 📈 GitHub Insights:
-![Total Commits](https://img.shields.io/badge/Total_Commits-${{ env.COMMIT_COUNT }}-brightgreen)
+![Total Commits](https://img.shields.io/badge/Total_Commits-0-brightgreen)
 
 <picture>
   <source
