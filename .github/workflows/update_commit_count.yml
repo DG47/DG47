@@ -21,7 +21,7 @@ jobs:
 
       - name: Update README
         run: |
-          sed -i "s/!\[Total Commits\].*/![Total Commits](https://img.shields.io/badge/Total_Commits-${{ env.COMMIT_COUNT }}-brightgreen)/" README.md
+          sed -i "s/Total_Commits-[0-9]*/Total_Commits-${{ env.COMMIT_COUNT }}/" README.md
           git config --global user.email "action@github.com"
           git config --global user.name "GitHub Action"
           git add README.md
