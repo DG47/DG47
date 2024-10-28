@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
   push:
     branches:
-      - main  # Change to 'master' if your default branch is 'master'
+      - main  # Adjust this if your main branch has a different name
 
 jobs:
   update-readme:
@@ -17,13 +17,23 @@ jobs:
 
       - name: Fetch commit count
         run: |
-          echo "COMMIT_COUNT=$(git rev-list --all --count)" >> $GITHUB_ENV
+          COMMIT_COUNT=$(git rev-list --all --count)
+          echo "Commit count: $COMMIT_COUNT"  # Log commit count for verification
+          echo "COMMIT_COUNT=$COMMIT_COUNT" >> $GITHUB_ENV
 
       - name: Update README
         run: |
-          sed -i "s/Total_Commits-[0-9]*/Total_Commits-${{ env.COMMIT_COUNT }}/" README.md
+          # Check environment variable and update README
+          echo "Updating README with commit count: ${COMMIT_COUNT}"
+          sed -i "s/Total_Commits-[0-9]*/Total_Commits-${COMMIT_COUNT}/" README.md
+
+          # Set up Git for commit
           git config --global user.email "action@github.com"
           git config --global user.name "GitHub Action"
+
+          # Add, commit, and push changes
           git add README.md
-          git commit -m "Update commit count"
+          git commit -m "Update commit count to ${COMMIT_COUNT}"
           git push
+        env:
+          COMMIT_COUNT: ${{ env.COMMIT_COUNT }}
