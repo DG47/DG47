@@ -2,11 +2,11 @@ name: Update Commit Count
 
 on:
   schedule:
-    - cron: '0 * * * *'  # Runs at midnight UTC every day
+    - cron: "*/30 * * * *"  # Runs every 30 minutes
   workflow_dispatch:
   push:
     branches:
-      - main  # Adjust this if your main branch has a different name
+      - main  # Change to 'master' if your default branch is 'master'
 
 jobs:
   update-readme:
@@ -18,22 +18,23 @@ jobs:
       - name: Fetch commit count
         run: |
           COMMIT_COUNT=$(git rev-list --all --count)
-          echo "Commit count: $COMMIT_COUNT"  # Log commit count for verification
+          echo "Commit count: $COMMIT_COUNT"
           echo "COMMIT_COUNT=$COMMIT_COUNT" >> $GITHUB_ENV
 
       - name: Update README
         run: |
-          # Check environment variable and update README
-          echo "Updating README with commit count: ${COMMIT_COUNT}"
+          # Check if the README.md file actually changes before committing
           sed -i "s/Total_Commits-[0-9]*/Total_Commits-${COMMIT_COUNT}/" README.md
-
-          # Set up Git for commit
-          git config --global user.email "action@github.com"
-          git config --global user.name "GitHub Action"
-
-          # Add, commit, and push changes
-          git add README.md
-          git commit -m "Update commit count to ${COMMIT_COUNT}"
-          git push
+          
+          # Only add, commit, and push if there's an actual change
+          if [ -n "$(git status --porcelain)" ]; then
+            git config --global user.email "action@github.com"
+            git config --global user.name "GitHub Action"
+            git add README.md
+            git commit -m "Update commit count to ${COMMIT_COUNT}"
+            git push
+          else
+            echo "No changes in commit count, skipping commit."
+          fi
         env:
           COMMIT_COUNT: ${{ env.COMMIT_COUNT }}
