@@ -17,16 +17,16 @@ jobs:
 
       - name: Fetch commit count
         run: |
-          COMMIT_COUNT=$(git rev-list --all --count)
-          echo "Commit count: $COMMIT_COUNT"
+          COMMIT_COUNT=$(git rev-list --count HEAD)
+          echo "Commit count: $COMMIT_COUNT"  # Debugging line to check commit count
           echo "COMMIT_COUNT=$COMMIT_COUNT" >> $GITHUB_ENV
 
       - name: Update README
         run: |
-          # Check if the README.md file actually changes before committing
+          # Update README.md with the new commit count
           sed -i "s/Total_Commits-[0-9]*/Total_Commits-${COMMIT_COUNT}/" README.md
           
-          # Only add, commit, and push if there's an actual change
+          # Check if there is any change to the README
           if [ -n "$(git status --porcelain)" ]; then
             git config --global user.email "action@github.com"
             git config --global user.name "GitHub Action"
