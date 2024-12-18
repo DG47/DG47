@@ -5,6 +5,7 @@
 
 - 🎓 MS in Information Science from University of Pittsburgh, specializing in Computer Vision and AI.
 - 🚀 Highly skilled in Computer Vision, Data Engineering, and AI, with a strong passion for Machine Learning.
+- 👨‍💻 Software @ Sparx
 - 💼 Over 4 years of experience as a Data Engineer and Computer Vision Engineer at Meditab Software Inc, Dosepacker and HERL
 - 🌱 My academic journey includes extensive coursework in Data Structures & Algorithms, AI, Database Management, Data Visualization, Computer Vision, and more.
 - 📫 Reach out:  :e-mail: [todhruvg@gmail.com](mailto:todhruvg@gmail.com) | <img src="li.png">  [DG47](https://www.linkedin.com/in/DG47/)
