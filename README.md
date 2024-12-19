@@ -5,7 +5,7 @@
 
 - 🎓 MS in Information Science from University of Pittsburgh, specializing in Computer Vision and AI.
 - 🚀 Highly skilled in Computer Vision, Data Engineering, and AI, with a strong passion for Machine Learning.
-- 👨‍💻 Software @ Sparx
+- <img align='center' src="Vector.svg" alt="Sparx" width='20' height='20'/> Software @ Sparx
 - 💼 Over 4 years of experience as a Data Engineer and Computer Vision Engineer at Meditab Software Inc, Dosepacker and HERL
 - 🌱 My academic journey includes extensive coursework in Data Structures & Algorithms, AI, Database Management, Data Visualization, Computer Vision, and more.
 - 📫 Reach out:  :e-mail: [todhruvg@gmail.com](mailto:todhruvg@gmail.com) | <img src="li.png">  [DG47](https://www.linkedin.com/in/DG47/)
@@ -40,7 +40,7 @@
 
 ### 🎨 Extra-Curriculars & Hobbies:
 - :clapper:  [Watch my movie here](https://youtu.be/S2IAEMNz15M?si=9aKyHHl7XCpn-eSz)
-- <img align='left' src="https://github.com/Football-Analytics-UCU/Real-Madrid/blob/6b9e314400b4f2fd2bf615c88abea9c43d7462d7/photos/Real_Madrid_logo.png" alt="RMA" width='15' height='15'/>Join me supporting Real Madrid on UCL days
+- <img align='center' src="https://github.com/Football-Analytics-UCU/Real-Madrid/blob/6b9e314400b4f2fd2bf615c88abea9c43d7462d7/photos/Real_Madrid_logo.png" alt="RMA" width='20' height='20'/> Join me supporting Real Madrid on UCL days
 - :racing_car:  Love driving, travelling, reading and researching
 
 ### 📈 GitHub Insights:
