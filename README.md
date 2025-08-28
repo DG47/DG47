@@ -10,10 +10,6 @@
 - 🌱 My academic journey includes extensive coursework in Data Structures & Algorithms, AI, Database Management, Data Visualization, Computer Vision, and more.
 - 📫 Reach out:  :e-mail: [todhruvg@gmail.com](mailto:todhruvg@gmail.com) | <img src="li.png">  [DG47](https://www.linkedin.com/in/DG47/)
 - 🌈 Pronouns: He / Him
-- 🤖 See my business card by entering the following command in your terminal
-```bash
-  npx dhruv-card
-```
 
 ### 📚 My College Journey:
 - **Learning**: Proficient in Deep Learning, Data Science, and Computer Vision.
