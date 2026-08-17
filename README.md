@@ -3,9 +3,9 @@
 ### :man_student: About Me:
 <img src="hey.png" align="right" alt="Bitmoji Image" width="200" height="200">
 
-- 🎓 MS in Information Science from University of Pittsburgh, specializing in Computer Vision and AI from Carnegie Mellon.
+- <img src="pitt-edu-logo.png" width="20" height="20"> <img src="cmu-edu-logo.png" width="20" height="20"> MS in Information Science from University of Pittsburgh, specializing in Computer Vision and AI from Carnegie Mellon.
 - 🚀 Highly skilled in Computer Vision, Data Engineering, and AI, with a strong passion for Machine Learning.
-- <img align='center' src="Vector.svg" alt="Sparx" width='20' height='20'/> Software @ Sparx
+- <img align='center' src="Vector.svg" alt="Sparx" width='20' height='20'/> Founding @ Sparx
 - 💼 Over 6 years of experience as a Data Engineer and Computer Vision Engineer at Meditab Software Inc, Dosepacker and HERL
 - 🌱 My academic journey includes extensive coursework in Data Structures & Algorithms, AI, Database Management, Data Visualization, Computer Vision, and more.
 - 📫 Reach out:  :e-mail: [todhruvg@gmail.com](mailto:todhruvg@gmail.com) | <img src="li.png">  [DG47](https://www.linkedin.com/in/DG47/)
