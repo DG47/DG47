@@ -1,5 +1,153 @@
 # Hi, I'm Dhruv 👋
 
+**Founding Software Engineer building across platform engineering, data systems, applied AI, and computer vision.**
+
+I'm currently a **Founding Software Engineer at Sparx**, where I work across the architecture and development of data-intensive healthcare platforms.
+
+My background started in **AI and computer vision** and gradually expanded into data engineering, backend systems, cloud infrastructure, security, and platform architecture. I gravitate toward problems that sit between disciplines and require understanding the whole system rather than one isolated piece of it.
+
+Based in New York.
+
+---
+
+## What I work on
+
+**Platform Engineering**  
+Distributed systems, backend services, cloud infrastructure, Kubernetes, infrastructure as code, authentication, authorization, and developer tooling.
+
+**Data Systems**  
+Data ingestion, orchestration, ETL/ELT, warehouse architecture, data modeling, analytics infrastructure, and data quality.
+
+**Applied AI**  
+Machine learning, recommendation systems, intelligent automation, predictive modeling, and the infrastructure required to run AI reliably in production.
+
+**Computer Vision**  
+Object detection, image classification, visual recognition, medical imaging, SLAM, and assistive robotics.
+
+---
+
+## Tech
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,go,cpp,java,bash" alt="Python, Go, C++, Java, Bash" />
+</p>
+
+`Python` · `Go` · `SQL` · `C++` · `Java` · `Bash`
+
+### Platform & Cloud
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,terraform,linux,githubactions" alt="AWS, Kubernetes, Docker, Terraform, Linux, GitHub Actions" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/helm" alt="Helm" title="Helm" width="48" height="48" />
+</p>
+
+`AWS` · `Kubernetes / EKS` · `Docker` · `Terraform` · `Helm` · `Linux` · `CI/CD`
+
+### Data
+
+<p>
+  <img src="https://cdn.simpleicons.org/snowflake" alt="Snowflake" title="Snowflake" width="48" height="48" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/apacheairflow" alt="Apache Airflow" title="Apache Airflow" width="48" height="48" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/dbt" alt="dbt" title="dbt" width="48" height="48" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/amazonredshift" alt="Amazon Redshift" title="Amazon Redshift" width="48" height="48" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=postgres,mysql" alt="PostgreSQL, MySQL" />
+</p>
+
+`Snowflake` · `Airflow` · `dbt` · `PostgreSQL` · `Redshift` · `MySQL`
+
+### Backend & Web
+
+<p>
+  <img src="https://skillicons.dev/icons?i=go,fastapi,nextjs,postgres" alt="Go, FastAPI, Next.js, PostgreSQL" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/vercel" alt="Vercel" title="Vercel" width="48" height="48" />
+</p>
+
+`Go` · `FastAPI` · `Next.js` · `REST APIs` · `PostgreSQL` · `Vercel`
+
+### AI & Computer Vision
+
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" alt="PyTorch, TensorFlow, OpenCV" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/scikitlearn" alt="Scikit-learn" title="Scikit-learn" width="48" height="48" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/numpy" alt="NumPy" title="NumPy" width="48" height="48" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/pandas" alt="Pandas" title="Pandas" width="48" height="48" />
+</p>
+
+`PyTorch` · `TensorFlow` · `Scikit-learn` · `OpenCV` · `NumPy` · `Pandas`
+
+---
+
+## Background
+
+Before Sparx, I worked across **machine learning, data engineering, healthcare AI, and computer vision** at BulkMagic, Meditab Software, DosePacker, the University of Pittsburgh, and the Human Engineering Research Laboratories.
+
+That work has included recommendation systems, large-scale data pipelines, healthcare ML, predictive modeling, real-time computer vision, SLAM, and assistive robotics.
+
+My research has covered topics including **tree species detection, Hindi news classification, breast cancer prediction, and computer vision for assistive systems**.
+
+---
+
+## Education
+<p>
+<img src="pitt-edu-logo.png" width="30" height="30" align left> 
+  <strong>University of Pittsburgh</strong><br>
+  M.S. in Information Science
+</p>
+<br>
+<p>
+  <img src="cmu-edu-logo.png" width="30" height="30">
+<strong>Carnegie Mellon University</strong><br>
+Cross-registered coursework in Computer Vision & Artificial Intelligence
+</p>
+**Vellore Institute of Technology**  
+B.Tech. in Information Technology
+
+---
+
+## Outside code
+
+I support **Real Madrid**, which periodically makes distributed-system failures seem emotionally manageable.
+
+I also enjoy driving, traveling, reading, and going considerably further down research rabbit holes than the original question required.
+
+And, somewhat improbably, I made a movie: **[watch it here](https://youtu.be/S2IAEMNz15M?si=9aKyHHl7XCpn-eSz)**.
+
+---
+
+## Connect
+
+<a href="mailto:todhruvg@gmail.com">
+  <img src="https://img.shields.io/badge/Email-todhruvg%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://www.linkedin.com/in/DG47/">
+  <img src="https://img.shields.io/badge/LinkedIn-Dhruv_Gupta-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Hi, I'm Dhruv 👋
+
 **Founding Software Engineer · Data Platforms · Applied AI · Computer Vision**
 
 I build production systems at the intersection of **software engineering, data, AI, and infrastructure**, with much of my recent work focused on healthcare technology.
@@ -109,7 +257,7 @@ I've worked across healthcare data platforms, AI/ML applications, analytics, aut
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="42" height="42"/>
   &nbsp;
-  <img src="https://simpleicons.org/amazonredshift" alt="Amazon Redshift" title="Amazon Redshift" width="42" height="42"/>
+  <img src=Redshift.svg alt="Amazon Redshift" title="Amazon Redshift" width="42" height="42"/>
   
 </p>
 
