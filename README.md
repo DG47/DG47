@@ -58,7 +58,7 @@ Not all of it went cleanly. On one of the highdicom fixes I committed a reviewer
 
 Python, SQL and R most days, Go and Java when the job calls for it, C++ when it is a camera. Snowflake, Airflow, dbt, Postgres and Redshift for data. AWS, Kubernetes, Terraform, Docker and GitHub Actions underneath. PyTorch and OpenCV from the earlier life described below.
 
-On the side I am building [Friday](https://github.com/DG47/friday-esp32-p4-assistant), a local-first voice assistant on a Waveshare ESP32-P4 touch display. The board is the face; a backend owns the conversation, routes between local and hosted models, and keeps reminders and timers alive across restarts. It is not flashed to hardware yet, and the simulator is where most of it has been tested.
+On the side I am building Friday, a local-first voice assistant on a Waveshare ESP32-P4 touch display. The board is the face; a backend owns the conversation, routes between local and hosted models, and keeps reminders and timers alive across restarts. It is not flashed to hardware yet, and the simulator is where most of it has been tested.
 
 ## Before Sparx
 
