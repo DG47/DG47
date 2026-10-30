@@ -36,7 +36,7 @@ More is in review at Airflow, dbt-adapters, Iceberg and the OHDSI repositories. 
 
 Python, SQL and R most days, Go and Java when the job calls for it, C++ when it is a camera. Snowflake, Airflow, dbt, Postgres and Redshift for data; AWS, Kubernetes, Terraform and GitHub Actions underneath; PyTorch and OpenCV from the earlier life.
 
-On the side: [Friday](https://github.com/DG47/friday-esp32-p4-assistant), a local-first voice assistant on an ESP32-P4 touch display. The board is the face, a backend owns the conversation and routes between local and hosted models. Not flashed to hardware yet.
+On the side: [Friday](https://github.com/DG47/friday-esp32-p4-assistant), a local-first voice assistant on an ESP32-P4 touch display. The board is the face, a backend owns the conversation and routes between local and hosted models. It runs on the physical board: voice turns, reminders and TLS re-enrollment are verified there, while speaker output and echo cancellation are still open.
 
 ## Before Sparx
 
