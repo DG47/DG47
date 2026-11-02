@@ -1,0 +1,5 @@
+Original code-drawn artwork created for DG47 by OpenAI Codex, November 2026.
+CC0 1.0 Universal public-domain dedication, to the extent applicable.
+https://creativecommons.org/publicdomain/zero/1.0/legalcode
+No stock animation or external artwork used. Font glyphs were rendered from system Georgia and Arial; font files are not distributed.
+Source: scripts/make_nameplate.py
